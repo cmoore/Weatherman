@@ -1,0 +1,4 @@
+main-class = io.ivy.weatherman.Weatherman
+name = Weatherman
+author = cmoore
+version = 1
