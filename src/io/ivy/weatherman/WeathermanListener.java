@@ -23,8 +23,8 @@ public class WeathermanListener implements PluginListener {
 			@Override
 			public void accept(World the_world) {
 				the_world.setThundering(false);
-			}
-		});
+			}});
+    
 		raining_worlds.forEach(new Consumer<World>() {
 			@Override
 			public void accept(World the_world) {
